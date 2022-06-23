@@ -2,8 +2,6 @@ import br.com.alura.bytebank.models.*
 
 fun accountBehaviour() {
 
-
-
     val checkingAccont = CheckingAccount(
         Customer(
             name = "Leonardo",

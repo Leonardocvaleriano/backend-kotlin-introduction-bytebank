@@ -36,3 +36,22 @@ abstract class Account(
         }
     }
 }
+
+
+class SalaryAccount(
+    holder: Customer,
+    accountNumber: Int
+) : Account(holder = holder,
+    accountNumber = accountNumber)
+
+class CheckingAccount(
+    holder: Customer,
+    accountNumber: Int
+) : AccountTransfer(holder = holder, accountNumber = accountNumber)
+
+
+
+class SavingAccount(
+    holder: Customer,
+    accountNumber: Int
+) : AccountTransfer(holder = holder, accountNumber = accountNumber)
