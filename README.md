@@ -4,7 +4,6 @@
 ![ByteBank Running2](https://user-images.githubusercontent.com/97267699/165163129-916b1bbc-bbb6-4bb6-ad0e-7af6dc4247a0.JPG)
 
 <h2>Techniques and tecnologies used ✔️</h2>
-In this App the following techniques and technologies are explored:<br><br>
 
 <b><h3> Object-oriented:</h3></b> 
 
